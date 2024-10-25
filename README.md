@@ -17,6 +17,4 @@ Frontend: Flutter
 Backend: Java, Spring Boot
 Database: MySQL
 
-Impact:
-CuseCafeConnect significantly enhanced work coordination and reduced scheduling conflicts, benefiting more than 600 employees. By digitizing and centralizing communications, the platform has improved employee satisfaction and operational efficiency at Syracuse University's cafés.
 
