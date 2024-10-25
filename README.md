@@ -13,8 +13,8 @@ Facilitates seamless communication between 600+ employees.
 Efficient work-schedule management system covering 15 cafés.
 
 Tech Stack:
-Frontend: Flutter
-Backend: Java, Spring Boot
+Frontend: Flutter,
+Backend: Java - Spring Boot,
 Database: MySQL
 
 
